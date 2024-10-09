@@ -14,7 +14,7 @@ Avant de commencer, assure-toi d'avoir les éléments suivants installés sur ta
 1. Clone ce dépôt :
 
    ```bash
-   git clone [https://github.com/nom_utilisateur/SkillTracker.git](https://github.com/Aurelien-DRUON/SkillTracker.git)
+   git clone https://github.com/Aurelien-DRUON/SkillTracker.git
    cd SkillTracker
 
 2. Installe les dépendances :
